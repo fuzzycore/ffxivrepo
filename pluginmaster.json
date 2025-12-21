@@ -4,15 +4,15 @@
     "Name": "EorzeaLink",
     "Description": "Import EorzeaCollection glams and apply via Glamourer.",
     "InternalName": "EorzeaLink",
-    "AssemblyVersion": "0.1.2",
+    "AssemblyVersion": "0.1.3",
     "RepoUrl": "https://github.com/FuzzyCore/EorzeaLink",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "Punchline": "Paste EC URL → preview → apply.",
     "IconUrl": "https://raw.githubusercontent.com/fuzzycore/EorzeaLink/master/EorzeaLink/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/fuzzycore/EorzeaLink/releases/download/v0.1.2/EorzeaLink.zip",
-    "DownloadLinkUpdate":  "https://github.com/fuzzycore/EorzeaLink/releases/download/v0.1.2/EorzeaLink.zip",
-    "LastUpdate": "1760896048"
+    "DownloadLinkInstall": "https://github.com/fuzzycore/EorzeaLink/releases/download/v0.1.3/EorzeaLink.zip",
+    "DownloadLinkUpdate":  "https://github.com/fuzzycore/EorzeaLink/releases/download/v0.1.3/EorzeaLink.zip",
+    "LastUpdate": "1760896049"
   }
 ]
