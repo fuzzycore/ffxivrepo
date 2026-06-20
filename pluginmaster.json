@@ -20,15 +20,15 @@
     "Name": "GODLIKE",
     "Description": "Pops escalating arena-announcer callouts (KILL, DOUBLE KILL, MONSTER KILL ... all the way to absurd 50+ tiers) with baked-in voice lines as your Frontline kill streak climbs.",
     "InternalName": "Godlike",
-    "AssemblyVersion": "0.0.3.0",
+    "AssemblyVersion": "0.0.4.0",
     "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "An unhinged PvP killstreak announcer.",
     "IconUrl": "https://raw.githubusercontent.com/fuzzycore/ffxivrepo/main/Godlike/icon.png",
     "ImageUrls": [],
-    "DownloadLinkInstall": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.3/Godlike.zip",
-    "DownloadLinkUpdate": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.3/Godlike.zip",
-    "LastUpdate": "1781992006"
+    "DownloadLinkInstall": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.4/Godlike.zip",
+    "DownloadLinkUpdate": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.4/Godlike.zip",
+    "LastUpdate": "1781994881"
   }
 ]
