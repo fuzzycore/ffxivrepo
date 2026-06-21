@@ -21,7 +21,7 @@
     "Description": "Pops escalating arena-announcer callouts (KILL, DOUBLE KILL, MONSTER KILL ... all the way to absurd 50+ tiers) with baked-in voice lines as your Frontline kill streak climbs.",
     "InternalName": "Godlike",
     "AssemblyVersion": "0.0.4.0",
-    "RepoUrl": "https://github.com/fuzzycore/ffxivrepo",
+    "RepoUrl": "https://github.com/fuzzycore/Godlike",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "An unhinged PvP killstreak announcer.",
