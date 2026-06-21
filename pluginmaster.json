@@ -25,7 +25,7 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "Punchline": "An unhinged PvP killstreak announcer.",
-    "IconUrl": "https://raw.githubusercontent.com/fuzzycore/ffxivrepo/main/Godlike/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/fuzzycore/Godlike/main/images/icon.png",
     "ImageUrls": [],
     "DownloadLinkInstall": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.4/Godlike.zip",
     "DownloadLinkUpdate": "https://github.com/fuzzycore/ffxivrepo/releases/download/godlike-v0.0.4/Godlike.zip",
